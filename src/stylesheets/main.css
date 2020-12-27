@@ -1,0 +1,42 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  color: #525252;
+}
+
+a {
+  text-decoration: none;
+  color: #cb3837;
+}
+
+.container {
+  text-align: center;
+}
+
+
+
+.orderedList {
+  text-align: left;
+  /*list-style-type: none;*/
+}
+.oList-item {
+  font: 1.1em/1.5em "Roboto", sans-serif;
+  list-style-type: none;
+  font-weight: lighter;
+}
+/*
+list-style-type: none;
+font-family: sans Helvettica;
+font-size: 14;
+line-height: 18;
+*/
